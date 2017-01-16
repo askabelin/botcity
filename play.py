@@ -1,8 +1,8 @@
 import pygame
 
 import config
-from graphics.base import all_sprites
-from graphics.man import Worker
+from graphic.base import all_sprites
+from graphic.man import Worker
 from logic.man import MOVE_L, MOVE_D, MOVE_U, MOVE_R, BUILD_FIELD
 
 STATE_MAP = {

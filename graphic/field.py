@@ -2,7 +2,7 @@ import os
 import pygame
 
 import config
-from graphics.base import BaseSprite
+from graphic.base import BaseSprite
 from logic.field import FieldAI, MATURE_STATE
 
 
